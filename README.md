@@ -20,5 +20,9 @@ example.py
 
 The results of the program will be saved in *..\\results\\*, which includes clustering results of given samples, some important distribution of the dataset, and some visualization results.
 
+![log likelihood](https://github.com/Cyyjenkins/latent-Dirichlet-allocation/blob/master/results/log_likelihood.png?raw=true)
+![heatmap](https://github.com/Cyyjenkins/latent-Dirichlet-allocation/blob/master/results/heatmap.png?raw=true)
+![distributionmap](https://github.com/Cyyjenkins/latent-Dirichlet-allocation/blob/master/results/distributionmap.png)
 
-for any problems, please contact us at cyychenyaoyu@163.com
+
+For any problems, please contact us at cyychenyaoyu@163.com
